@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+
+#titulo{
+    margin-top: 50px;
+    margin-left: 600px;
+}
+
+#link{
+    background-color: black;
+    display:inline-block;
+    margin-top: 50px;
+    margin-left:300px;
+}
+
+#videos{
+    margin-top: 70px;
+    margin-left:500px;
+}
+
+
+#botao{
+    margin-left:250px;
+}
+
+
+
+    
